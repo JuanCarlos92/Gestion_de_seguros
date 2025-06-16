@@ -28,7 +28,7 @@ Este repositorio contiene únicamente el **frontend** desarrollado en Flutter. E
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/gestion-seguros.git
+   git clone https://github.com/JuanCarlos92/Gestion_de_seguros.git
    cd gestion-seguros
    ```
 2. Instala las dependencias:
