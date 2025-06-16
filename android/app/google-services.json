@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080539204602",
+    "project_id": "biencubierto-app",
+    "storage_bucket": "biencubierto-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080539204602:android:587480f8d4008c20bdf243",
+        "android_client_info": {
+          "package_name": "com.biencubierto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SpIVa6uP9lnq3vcD4bwwZRrFG4hVd0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
