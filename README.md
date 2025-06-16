@@ -13,7 +13,6 @@ Este repositorio contiene únicamente el **frontend** desarrollado en Flutter. E
 - Contratación de nuevos seguros.
 - Visualización y edición del perfil del usuario.
 - Cambio de contraseña.
-- Interfaz adaptada a móviles con tema oscuro (dark mode).
 
 ## Tecnologías utilizadas
 
