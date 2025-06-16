@@ -1,16 +1,50 @@
-# biencubierto_app
+# Gestión de Seguros
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para la gestión de seguros personales. Esta app permite a los usuarios registrarse, iniciar sesión, contratar seguros, visualizar sus pólizas activas y gestionar su perfil de usuario.
 
-## Getting Started
+Este repositorio contiene únicamente el **frontend** desarrollado en Flutter. El backend, implementado en PHP con Symfony, se encuentra en un repositorio independiente y no forma parte de este proyecto.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades principales
 
-A few resources to get you started if this is your first Flutter project:
+- Registro de nuevos usuarios.
+- Envío de un código de verificación por correo electrónico para completar el registro.
+- Inicio de sesión con autenticación segura.
+- Visualización de los seguros contratados por el usuario.
+- Contratación de nuevos seguros.
+- Visualización y edición del perfil del usuario.
+- Cambio de contraseña.
+- Interfaz adaptada a móviles con tema oscuro (dark mode).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologías utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Dart)
+- Comunicación con API RESTful
+- Gestión de estado (por ejemplo, Provider)
+- Validación de formularios
+- Diseño responsive orientado a dispositivos móviles
+
+## Instalación y ejecución
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/tuusuario/gestion-seguros.git
+   cd gestion-seguros
+   ```
+2. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+3. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
+Asegúrate de tener configurado un emulador o dispositivo físico y que el backend esté disponible en la URL esperada.
+
+## Estado del proyecto
+
+- Registro y login funcionales
+- Verificación por correo electrónico
+- Visualización y contratación de seguros
+- Gestión del perfil de usuario
+   
